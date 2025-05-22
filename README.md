@@ -1,2 +1,2 @@
 # Calculator
-Small Js project
+
